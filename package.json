@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/el-eternauta-todo",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a el-eternauta-todo",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/el-eternauta-todo.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/disfruta-el-eternauta/"
+    },
+    "homepage": "https://isproto.com/disfruta-el-eternauta/"
+}
